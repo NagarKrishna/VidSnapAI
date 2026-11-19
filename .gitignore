@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+# User uploads
+user_uploads/
+# Generated videos
+static/reels/*.mp4
+reel.mp4
+
+1746809394929-template.zip
+.venv/
+.env
+# API credentials
+api.txt
